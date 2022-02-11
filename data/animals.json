@@ -108,33 +108,6 @@
         "loving"
       ],
       "id": "10"
-    },
-    {
-      "name": "Larry",
-      "species": "lemur",
-      "diet": "omnivore",
-      "personalityTraits": [
-        "hungry"
-      ],
-      "id": "11"
-    },
-    {
-      "name": "Larry",
-      "species": "Leimur",
-      "diet": "herbivore",
-      "personalityTraits": [
-        "hungry"
-      ],
-      "id": "12"
-    },
-    {
-      "name": "Jeffrey",
-      "species": "Giraffe",
-      "diet": "herbivore",
-      "personalityTraits": [
-        "loving"
-      ],
-      "id": "13"
     }
   ]
 }
